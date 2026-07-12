@@ -72,7 +72,9 @@ https://learn.microsoft.com/training/modules/build-manage-no-code-copilot-agent-
 
 ### Prompt
 
+```text
 Microsoft 교육 과정을 안내하는 Agent를 만들어줘.
+```
 
 ### 확인 항목
 
@@ -174,19 +176,27 @@ https://learn.microsoft.com/training/modules/build-manage-no-code-copilot-agent-
 
 ### Prompt
 
+```text
 이 교육 과정의 대상자는 누구인가?
+```
 
 ### Prompt
 
+```text
 어떤 사전 지식이 필요한가?
+```
 
 ### Prompt
 
+```text
 FAQ를 생성해줘.
+```
 
 ### Prompt
 
+```text
 이 과정을 한 문장으로 소개해줘.
+```
 
 ### 설명 포인트
 

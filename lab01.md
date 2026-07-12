@@ -43,15 +43,21 @@ Copilot Chat이 일반 검색과 어떻게 다른지 확인
 
 #### Prompt
 
+```text
 Microsoft 365 Copilot의 주요 기능을 5가지로 요약해줘.
+```
 
 #### 후속 Prompt
 
+```text
 위 내용을 표 형식으로 정리해줘.
+```
 
 #### 후속 Prompt
 
+```text
 IT 관리자가 알아야 할 내용만 다시 정리해줘.
+```
 
 ### 설명 포인트
 
@@ -88,19 +94,27 @@ PDF 업로드
 
 #### Prompt
 
+```text
 이 문서의 핵심 내용을 5가지로 요약해줘.
+```
 
 #### 후속 Prompt
 
+```text
 이 문서를 처음 보는 관리자를 위한 요약본을 작성해줘.
+```
 
 #### 후속 Prompt
 
+```text
 이 문서에서 수행해야 할 Action Item을 추출해줘.
+```
 
 #### 후속 Prompt
 
+```text
 예상 질문 5개를 생성해줘.
+```
 
 ### 설명 포인트
 
@@ -134,11 +148,15 @@ https://learn.microsoft.com/en-us/training/modules/summarize-simplify-informatio
 
 #### Prompt
 
+```text
 업로드한 문서 내용과 최신 Microsoft Learn 정보를 비교해줘.
+```
 
 #### 후속 Prompt
 
+```text
 현재 기준으로 업데이트가 필요한 내용을 알려줘.
+```
 
 ### 설명 포인트
 
@@ -172,11 +190,15 @@ Prompt Coach 실행
 
 #### Prompt
 
+```text
 회의 요약 작성
+```
 
 #### 후속 Prompt
 
+```text
 위 프롬프트를 개선해줘.
+```
 
 ### 설명 포인트
 
@@ -211,11 +233,15 @@ Idea Coach 실행
 
 #### Prompt
 
+```text
 사내 AI 활용 아이디어를 제안해줘.
+```
 
 #### 후속 Prompt
 
+```text
 실제로 가장 빨리 적용 가능한 아이디어를 추천해줘.
+```
 
 ### 설명 포인트
 
@@ -249,7 +275,9 @@ Writing Coach 실행
 
 #### Prompt
 
+```text
 아래 메일을 조금 더 자연스럽고 전문적으로 수정해줘.
+```
 
 [메일 초안]
 
