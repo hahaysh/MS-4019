@@ -78,12 +78,21 @@ https://learn.microsoft.com/microsoft-365-copilot/extensibility/create-agents-co
 
 Agent 제거 메뉴 확인
 
+제거 전 확인
+
+- 라이브러리에서 현재 Agent가 노출되는지 확인
+
 ### 설명
 
 - 내 Agent 목록에서 제거
 - Agent 자체는 유지
 - 필요하면 다시 설치 가능
 - 설정 및 구성 유지
+
+제거 후 확인
+
+- 라이브러리에서 내 목록 기준으로 노출 상태가 어떻게 바뀌는지 확인
+- 검색의 과거 대화 기록과 Agent 설치/제거 상태는 별개임을 확인
 
 ### 설명 포인트
 
@@ -119,12 +128,21 @@ https://learn.microsoft.com/microsoft-365-copilot/extensibility/create-agents-co
 
 삭제 화면 확인
 
+삭제 전 확인
+
+- 라이브러리에서 삭제 대상 Agent를 정확히 선택했는지 확인
+
 ### 설명
 
 - Agent 영구 삭제
 - Instructions 삭제
 - Starter Prompts 삭제
 - 구성 정보 삭제
+
+삭제 후 확인
+
+- 라이브러리에서 해당 Agent가 더 이상 재진입 불가한지 확인
+- 검색으로 과거 대화를 찾더라도 동일 Agent 실행은 불가할 수 있음을 안내
 
 ### 설명 포인트
 
