@@ -143,7 +143,7 @@ https://learn.microsoft.com/microsoft-365-copilot/extensibility/create-agents-co
 
 Share and use agents
 
-https://learn.microsoft.com/training/modules/share-use-agents/
+https://learn.microsoft.com/en-us/training/modules/use-no-code-agents-sharepoint/
 
 ### Learn Unit
 

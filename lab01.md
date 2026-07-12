@@ -27,7 +27,7 @@
 
 Explore Microsoft 365 Copilot Chat
 
-https://learn.microsoft.com/training/modules/explore-microsoft-365-copilot-chat/
+https://learn.microsoft.com/en-us/training/modules/get-started-microsoft-365-copilot-business-chat/
 
 ### Learn Unit
 
@@ -69,7 +69,7 @@ IT 관리자가 알아야 할 내용만 다시 정리해줘.
 
 Analyze files using Microsoft 365 Copilot Chat
 
-https://learn.microsoft.com/training/modules/analyze-files-microsoft-365-copilot-chat/
+https://learn.microsoft.com/en-us/training/modules/work-smarter-with-microsoft-365-copilot-chat/
 
 ### Learn Unit
 
@@ -118,7 +118,7 @@ PDF 업로드
 
 Research and summarize information with Microsoft 365 Copilot Chat
 
-https://learn.microsoft.com/training/modules/research-information-microsoft-365-copilot-chat/
+https://learn.microsoft.com/en-us/training/modules/summarize-simplify-information-with-microsoft-copilot-microsoft-365/
 
 ### Learn Unit
 
