@@ -101,8 +101,6 @@ Microsoft 365 Copilot의 보안 관련 기능을 3가지로 요약해줘.
 
 - 새 채팅: 답변 생성 및 맥락 누적
 - 검색: 과거 대화 재진입 및 회수
-- 라이브러리: 목적형 Agent 선택과 작업 전환
-
 
 ---
 
@@ -161,6 +159,9 @@ PDF 업로드
 - Action Item 추출
 - FAQ 생성
 
+- 방금은 업로드한 문서 안에서 핵심을 뽑아봤고, 이제는 같은 방식으로 웹의 최신 정보까지 결합해보겠습니다.
+- 즉, 문서 요약 단계에서 한 걸음 더 나아가 최신성 검증과 업데이트 포인트 도출로 확장합니다.
+
 ---
 
 ## 데모 1-3. 웹 + 문서 기반 리서치
@@ -173,6 +174,12 @@ Research and summarize information with Microsoft 365 Copilot Chat
 
 https://learn.microsoft.com/en-us/training/modules/summarize-simplify-information-with-microsoft-copilot-microsoft-365/
 
+#### Microsoft Learn Exercise
+
+Exercise - Plan a Client Summit with Microsoft 365 Copilot Chat (Basic)
+
+https://learn.microsoft.com/en-us/training/modules/work-smarter-with-microsoft-365-copilot-chat/5-exercise-web-prompts
+
 ### Learn Unit
 
 - Research with Copilot Chat
@@ -183,7 +190,48 @@ https://learn.microsoft.com/en-us/training/modules/summarize-simplify-informatio
 
 업로드한 문서와 웹 정보 결합
 
+### 실습 전 체크
+
+- 가능하면 Copilot Chat Basic의 웹 모드에서 진행
+- 같은 채팅을 유지해 후속 Prompt로 맥락을 누적
+
 ### 강사 진행
+
+#### Prompt (웹 트렌드 조사)
+
+```text
+2025년 [산업]의 주요 혁신 트렌드 3가지를 알려주고, 고객 서밋 아젠다에 어떻게 반영할 수 있는지 제안해줘.
+```
+
+#### 후속 Prompt (세션 아이디어)
+
+```text
+방금 트렌드를 바탕으로 고객 혁신 서밋 세션 제목 5개와 각 세션의 짧은 설명을 작성해줘.
+```
+
+#### 후속 Prompt (톤 개선)
+
+```text
+세션 설명을 더 설득력 있게, 에너지 있고 전문적인 톤으로 바꿔줘.
+```
+
+#### 후속 Prompt (타임라인 표)
+
+```text
+위 주제 기준으로 1일 서밋 아젠다를 표로 만들어줘. 9:00, 11:00, 13:30, 15:00 세션과 오프닝/클로징, 미니 브레이크 2회, 점심 1시간을 포함해줘.
+```
+
+#### 후속 Prompt (기획 요약본)
+
+```text
+이 서밋의 1페이지 기획 요약본을 작성해줘. 목표, 대상, 세션 테마, 주요 준비 마일스톤을 포함해줘.
+```
+
+#### 후속 Prompt (성과 지표)
+
+```text
+예상 성과와 성공 지표 섹션을 추가해줘.
+```
 
 #### Prompt
 
@@ -202,6 +250,8 @@ https://learn.microsoft.com/en-us/training/modules/summarize-simplify-informatio
 - 파일 기반 분석
 - 최신 웹 정보 활용
 - 비교 분석
+- 웹 조사 → 아이디어 확장 → 일정 구체화 → 기획 문서화 흐름 체험
+- 후속 Prompt로 맥락을 이어가며 결과 품질 개선
 
 ---
 
